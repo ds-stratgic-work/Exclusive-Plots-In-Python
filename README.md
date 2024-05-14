@@ -12,6 +12,11 @@ These plots aim to enhance our comprehension of data by enabling smooth interact
 ## Project Description
 It achieves this by combining our data with relevant metadata, ensuring that both the raw data and its visualization are easily accessible. This approach may differ from conventional data-processing and plotting tools, and the purpose of this introductory guide is to provide a comprehensive overview of its functionality.
 
-Github: https://github.com/ds-stratgic-work/Exclusive-Plots-In-Python.git 
+
+Ref Articles:
+https://levelup.gitconnected.com/5-extremely-useful-plots-for-data-scientists-that-you-never-knew-existed-5b92498a878f 
+
+Documentation:
+https://holoviews.org/reference/elements/matplotlib/Chord.html?source=post_page-----5b92498a878f--------------------------------
 
 
